@@ -28,6 +28,8 @@ Next, open run.sh and replace the file paths including ojdbc6.jar, sdoapi.jar, b
 
 Run the script file in directory CurDir e.g. sh run.sh or . run.sh
 
+NOTE: for the sake of security, all host url, user name and password have been removed. Please fill in these paramters in HW3.java and Populate.java's getConnection() method if you want to run it really.
+
 ## Supported Platform
 
 The script is only run and tested in Linux and Mac OS. Technically you can also run it in Windows as long as a few modifications are made.
